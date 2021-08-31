@@ -1,8 +1,8 @@
-# honda-cbr-assignment
+# Random-User-API
 
-### [Assignment Netlify Live Link](https://hondacbr-2021.netlify.app/)
+### [Assignment Github Live Link](https://khananupamshafi.github.io/random-user-api/)
 
-#### This is the link: https://hondacbr-2021.netlify.app/
+#### This is the link: https://khananupamshafi.github.io/random-user-api
 
 ## 👩‍💻 Languages Used
 
